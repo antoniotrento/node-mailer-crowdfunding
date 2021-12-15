@@ -1,5 +1,17 @@
 Copy email
 
+https://www.virtuous.org/blog/5-fundraising-email-templates/
+https://www.qgiv.com/blog/how-to-ask-for-donations-with-emails/
+https://www.gofundme.com/c/blog/fundraising-email-templates
+https://fearless-fundraising.com/uncategorized/fundraising-email-scripts/
+https://www.classy.org/blog/nonprofit-email-marketing-9-examples/
+https://www.classy.org/blog/giving-tuesday-emails-that-convert/
+https://media.kaboom.org/docs/documents/pdf/businessdonationscript.pdf
+https://doublethedonation.com/tips/asking-for-donations/
+https://blog.fundly.com/fundraising-letters/
+https://blog.bonfire.com/asking-for-money-online/
+https://doublethedonation.com/tips/fundraising-letters/
+
 
 Ciao [Nome], io sono Antonio
 
@@ -23,7 +35,7 @@ Lo pensi anche tu? Complicato vero?
 
 Ma riuscire a realizzare i propri sogni, avere una soddisfazione personale ed economica, al contempo riuscire ad aiutare l’ambiente, merita lo sforzo! Credi anche tu?
 
-È per questo che ti ho scritto! 
+È per questo che ti ho scritto!
 
 Perché so che sei altruista, chiunque tu sia!
 
