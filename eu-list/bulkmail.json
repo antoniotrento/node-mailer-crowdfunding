@@ -1,0 +1,26 @@
+{
+  "credentials": {
+    "email": "trentohelp@gmail.com",
+    "password": "toto121283",
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secureConnection": true
+  },
+  "mail": {
+    "subject": "Heya {{fname}} {{lname}}! Just wanted to say hi!",
+    "from": "Antonio <trentohelp@gmail.com>",
+    "to": "leads.csv",
+    "theme": "themes/Newsletter/theme.html",
+    "attachments": []
+  },
+  "configuration": {
+    "mailInterval": "*/50 * * * * *",
+    "verbose": true
+  },
+  "nonUserData": {
+    "sentTo": [
+      "lantoniotrento@gmail.com",
+      "atrento83@gmail.com"
+    ]
+  }
+}
