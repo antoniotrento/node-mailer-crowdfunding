@@ -11,6 +11,10 @@ https://doublethedonation.com/tips/asking-for-donations/
 https://blog.fundly.com/fundraising-letters/
 https://blog.bonfire.com/asking-for-money-online/
 https://doublethedonation.com/tips/fundraising-letters/
+https://www.fundraisingletters.org/donation-request-letters/
+
+
+https://doublethedonation.com/tips/top-online-donation-tools/
 
 
 Ciao [Nome], io sono Antonio
