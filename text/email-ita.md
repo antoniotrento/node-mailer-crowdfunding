@@ -16,6 +16,8 @@ https://www.fundraisingletters.org/donation-request-letters/
 
 https://doublethedonation.com/tips/top-online-donation-tools/
 
+https://givebutter.com/pricing
+
 
 Ciao [Nome], io sono Antonio
 
