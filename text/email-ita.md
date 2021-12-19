@@ -18,6 +18,7 @@ https://artofemails.com/cold-emails?ref=marketingexamples.com
 https://doublethedonation.com/tips/top-online-donation-tools/
 
 https://givebutter.com/pricing
+  https://wise.com/
 
 
 Ciao [Nome], io sono Antonio
