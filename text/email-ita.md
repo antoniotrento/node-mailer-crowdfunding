@@ -13,13 +13,19 @@ https://blog.bonfire.com/asking-for-money-online/
 https://doublethedonation.com/tips/fundraising-letters/
 https://www.fundraisingletters.org/donation-request-letters/
 https://artofemails.com/cold-emails?ref=marketingexamples.com
-
+https://www.smartwriter.ai
 
 https://doublethedonation.com/tips/top-online-donation-tools/
 
 https://givebutter.com/pricing
   https://wise.com/
 
+
+# Cpy landing
+
+https://greatlandingpagecopy.com/
+https://www.texta.ai/?ref=betalist
+https://chewyai.com/
 
 Ciao [Nome], io sono Antonio
 
