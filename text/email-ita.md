@@ -12,6 +12,7 @@ https://blog.fundly.com/fundraising-letters/
 https://blog.bonfire.com/asking-for-money-online/
 https://doublethedonation.com/tips/fundraising-letters/
 https://www.fundraisingletters.org/donation-request-letters/
+https://artofemails.com/cold-emails?ref=marketingexamples.com
 
 
 https://doublethedonation.com/tips/top-online-donation-tools/
