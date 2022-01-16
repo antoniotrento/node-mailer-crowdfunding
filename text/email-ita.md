@@ -26,6 +26,8 @@ https://givebutter.com/pricing
 https://greatlandingpagecopy.com/
 https://www.texta.ai/?ref=betalist
 https://chewyai.com/
+https://shop.expresswriters.com/
+https://copywritingcrew.com/portfolio/
 
 Ciao [Nome], io sono Antonio
 
