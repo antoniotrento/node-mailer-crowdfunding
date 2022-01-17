@@ -20,6 +20,11 @@ https://doublethedonation.com/tips/top-online-donation-tools/
 https://givebutter.com/pricing
   https://wise.com/
 
+https://copywriterbrain.com/copywriting-examples/
+
+https://www.enchantingmarketing.com/copywriting-examples/
+https://blog.hubspot.com/marketing/copywriting-examples
+https://mirasee.com/blog/copywriting-examples/
 
 # Cpy landing
 
@@ -28,6 +33,14 @@ https://www.texta.ai/?ref=betalist
 https://chewyai.com/
 https://shop.expresswriters.com/
 https://copywritingcrew.com/portfolio/
+https://teardwn.com/
+
+https://www.articulatemarketing.com/
+https://velocitypartners.com/
+
+https://firstround.com/
+
+https://www.nakedwines.com/
 
 Ciao [Nome], io sono Antonio
 
