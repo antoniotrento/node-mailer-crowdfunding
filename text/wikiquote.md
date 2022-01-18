@@ -20,6 +20,8 @@ https://github.com/ashokparmar/wikiquotes-parser?ref=https://githubhelp.com
 
 https://github.com/MMorini86/Wiki-quotes-scraper?ref=https://githubhelp.com
 
+https://github.com/natetyler/wikiquotes-api
+
 https://lukaszielinski.de/blog/posts/2019/01/20/how-to-scrape-wikiquote/
 
 https://github.com/search?q=Wikiquote

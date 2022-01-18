@@ -34,6 +34,22 @@ https://chewyai.com/
 https://shop.expresswriters.com/
 https://copywritingcrew.com/portfolio/
 https://teardwn.com/
+https://contentbot.ai
+https://nichesss.com/
+https://www.jarvis.ai/ph
+https://fishyproducts.adflow.ai/?ref=producthunt
+https://www.adflow.ai/pricing
+https://www.usetopic.com/blog-idea-generator?ref=producthunt
+
+https://anyword.com
+https://writesonic.com/ai-article-writer-generator?ref=producthunt
+https://www.peppertype.ai/?ref=producthunt
+
+https://simplified.co/ai-copywriting/nichesss-alternatives
+
+https://www.producthunt.com/alternatives/nichesss
+https://www.saashub.com/nichesss-alternatives
+https://www.justoutsourcing.com/
 
 https://www.articulatemarketing.com/
 https://velocitypartners.com/
